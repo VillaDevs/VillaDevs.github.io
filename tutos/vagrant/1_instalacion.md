@@ -1,4 +1,6 @@
+
 # Instalar Vagrant en Ubuntu 20.04
+> Por Iván Casanova (@icnovaro) Ago 06, 2020
 
 Vagrant necesita un proveedor para la creación de máquinas virtuales, para este tutorial instalaremos virtualbox en una máquina (host) con ubuntu 20.04.
 
@@ -94,3 +96,16 @@ vagrant destroy
 ```
 
 En próximos post configuraremos un entorno de desarrollo con Vagrant. No olviden ver la documentación oficial para tener más detalle de cada uno de los comandos.
+
+
+---
+title:  'This is the title: it contains a colon'
+author:
+- Author One
+- Author Two
+keywords: [nothing, nothingness]
+abstract: |
+  This is the abstract.
+
+  It consists of two paragraphs.
+---
