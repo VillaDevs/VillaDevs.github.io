@@ -96,16 +96,3 @@ vagrant destroy
 ```
 
 En próximos post configuraremos un entorno de desarrollo con Vagrant. No olviden ver la documentación oficial para tener más detalle de cada uno de los comandos.
-
-
----
-title:  'This is the title: it contains a colon'
-author:
-- Author One
-- Author Two
-keywords: [nothing, nothingness]
-abstract: |
-  This is the abstract.
-
-  It consists of two paragraphs.
----
